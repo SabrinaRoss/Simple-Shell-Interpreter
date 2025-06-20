@@ -20,7 +20,7 @@ than run using ./ssi
 
 To **exit** the program tpye exit into the terminal
 
-
+## Academic Integrity Notice
 
 This project was developed as coursework for CSC360 (Operating Systems) at the University of Victoria (Summer 2025).
 
