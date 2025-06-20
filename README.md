@@ -16,9 +16,9 @@ This shell mimics basic functionality of the Bash shell, supporting:
 
 To run the program, compile using the makefile: `make` or `make ssi`
 
-than run using ./ssi
+Run the shell using ./ssi
 
-To **exit** the program tpye exit into the terminal
+To **exit**, type exit into the terminal
 
 ## Academic Integrity Notice
 
