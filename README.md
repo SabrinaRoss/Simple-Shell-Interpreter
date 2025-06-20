@@ -9,6 +9,7 @@ This shell mimics basic functionality of the Bash shell, supporting:
 - Foreground and background process management (`bg`, `bglist`)
 - Built-in commands: `cd`, `pwd`, `exit`
 - Handling of special paths: `~`, `.`, `..`
+- Piping between commands (e.g., `ls | wc`)
 - Proper prompt formatting: `username@hostname: /path >`
 
 
