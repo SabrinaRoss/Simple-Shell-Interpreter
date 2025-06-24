@@ -25,4 +25,4 @@ To **exit**, type exit into the terminal
 
 This project was developed as coursework for CSC360 (Operating Systems) at the University of Victoria (Summer 2025).
 
-Starter files, such as `inf.c`, `args.c` and `sample.c`, were provided by the UVic course team. All other code is original unless otherwise stated.
+All code is original unless otherwise stated.
